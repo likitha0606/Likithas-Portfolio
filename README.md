@@ -1,4 +1,3 @@
-# Myportfolio
+# View My Portfolio here 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Likitha-K/pen/ByBQGEP](https://codepen.io/Likitha-K/pen/ByBQGEP).
-
+[[https://codepen.io/Likitha-K/pen/ByBQGEP]](https://likitha0606.github.io/Myportfolio/)
